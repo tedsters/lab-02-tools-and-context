@@ -11,13 +11,15 @@
 
 ## Directions:
 * make a lib and test directory
-* move your greet module into the lib directory, if not already there
 * add your own .`gitignore`
 * include a `package.json`
 * include the standard .eslintrc
 * make a lint script for running eslint
 * make a test script for running mocha
 * make a start script for running your index.js in node
+* create a module, and export the functionality, for each context management method; Call, Bind, and Apply.
+  * each module should demonstrate at least one example of how to use that method for managing the 'this' keyword's context
+* write at least two tests for each of the three modules that you've exported
 
 ## Rubric:
 * Correct Submission: 2pts
