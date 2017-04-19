@@ -1,0 +1,25 @@
+{
+  "name": "lab-2",
+  "version": "1.0.0",
+  "description": "lab 2 work",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js",
+    "lint": "eslint ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~\u001b[2~https://github.com/tedsters/lab-02-tools-and-context"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "lab-02"
+  ],
+  "author": "David Teddy",
+  "license": "MIT"
+}
